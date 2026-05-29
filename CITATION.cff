@@ -15,7 +15,7 @@ abstract: >-
   English translations by Timothy Ian Cramp, a translator authorised by the
   Swedish Legal, Financial and Administrative Services Agency (Kammarkollegiet),
   no. 890. The Swedish originals are the authoritative texts.
-version: "1.0.0"
+version: "1.1.0"
 date-released: "2026-05-29"
 license: CC-BY-ND-4.0
 repository-code: "https://github.com/niklasgillstrom/dora-proceedings"
@@ -23,6 +23,10 @@ authors:
   - family-names: "Gillström"
     given-names: "Niklas"
     orcid: "https://orcid.org/0009-0001-6485-4596"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20447251"
+    description: "Concept DOI — resolves to the latest version of this archive."
 keywords:
   - DORA
   - State liability

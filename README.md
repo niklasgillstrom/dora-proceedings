@@ -24,7 +24,7 @@ Open-source reference implementations from the same research programme — the t
 
 ## Citation
 
-Gillström, N. (2026). *dora-proceedings: Authorised translations of proceedings on State liability for inadequate application of DORA in Sweden.* Zenodo. https://doi.org/[DOI assigned on release]
+Gillström, N. (2026). *dora-proceedings: Authorised translations of proceedings on State liability for inadequate application of DORA in Sweden.* Zenodo. https://doi.org/10.5281/zenodo.20447251
 
 ## License
 
